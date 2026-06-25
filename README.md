@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭I'm currently a B.tech student<br>💻I'm currently learning Artificial Intelligence & Machine Learning<br>🌱Interested in AI
+🔭I'm currently a B.tech student<br>💻I'm currently learning Artificial Intelligence & Machine Learning<br>🌱Interested in AI, Python
 
 
 ## 🌐 Socials:
