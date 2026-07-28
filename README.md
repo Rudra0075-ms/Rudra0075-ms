@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭I'm currently a B.tech student<br>💻I'm currently learning Artificial Intelligence & Machine Learning<br>🌱Interested in AI, Python<br> ⭐Currently pursuing the Google AI-ML Virtual Internship through Eduskills
+🔭I'm currently a B.tech student<br>💻I'm currently learning Artificial Intelligence & Machine Learning<br>🌱Interested in AI, Python<br> ⭐Successfully completed the Google AI-ML Virtual Internship conducted through EduSkills.
 
 
 ## 🌐 Socials:
