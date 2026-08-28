@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭I'm currently a B.tech student<br>💻I'm currently learning Artificial Intelligence & Machine Learning<br>🌱Interested in AI, Python<br> ⭐Successfully completed the Google AI-ML Virtual Internship conducted through EduSkills<br>🚀 Currently pursuing the Python Full Stack Virtual Internship through EduSkills
+🔭I'm currently a 2nd Year B.tech student<br>💻I'm currently learning Artificial Intelligence & Machine Learning<br>🌱Interested in AI, Python<br> ⭐Successfully completed the Google AI-ML Virtual Internship conducted through EduSkills<br>🚀 Currently pursuing the Python Full Stack Virtual Internship through EduSkills
 
 ## 🌐 Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sahoorudramadhab2007@gmail.com) 
